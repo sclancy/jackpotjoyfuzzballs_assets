@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="madhatter_idle.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="138" height="213" originalW="150" originalH="236"  offsetX="0" offsetY="19" />
+<SubTexture name="1" x="138" y="0" width="140" height="210" originalW="150" originalH="236"  offsetX="2" offsetY="23" />
+<SubTexture name="2" x="278" y="0" width="138" height="205" originalW="150" originalH="236"  offsetX="7" offsetY="28" />
+<SubTexture name="3" x="416" y="0" width="145" height="201" originalW="150" originalH="236"  offsetX="4" offsetY="33" />
+<SubTexture name="4" x="561" y="0" width="145" height="201" originalW="150" originalH="236"  offsetX="4" offsetY="33" />
+<SubTexture name="5" x="706" y="0" width="145" height="201" originalW="150" originalH="236"  offsetX="4" offsetY="33" />
+<SubTexture name="6" x="851" y="0" width="145" height="201" originalW="150" originalH="236"  offsetX="4" offsetY="33" />
+<SubTexture name="7" x="996" y="0" width="143" height="203" originalW="150" originalH="236"  offsetX="5" offsetY="31" />
+<SubTexture name="8" x="1139" y="0" width="139" height="207" originalW="150" originalH="236"  offsetX="5" offsetY="26" />
+<SubTexture name="9" x="1278" y="0" width="140" height="210" originalW="150" originalH="236"  offsetX="1" offsetY="22" />
+<SubTexture name="10" x="1418" y="0" width="138" height="211" originalW="150" originalH="236"  offsetX="0" offsetY="21" />
+
+</TextureAtlas>

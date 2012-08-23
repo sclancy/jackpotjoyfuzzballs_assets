@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="hatter_idle.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="1" x="70" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="2" x="140" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="3" x="210" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="4" x="280" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="5" x="350" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="6" x="420" y="0" width="70" height="107" originalW="75" originalH="110"  offsetX="5" offsetY="3" />
+<SubTexture name="7" x="490" y="0" width="69" height="103" originalW="75" originalH="110"  offsetX="6" offsetY="6" />
+<SubTexture name="8" x="559" y="0" width="70" height="99" originalW="75" originalH="110"  offsetX="5" offsetY="10" />
+<SubTexture name="9" x="629" y="0" width="70" height="98" originalW="75" originalH="110"  offsetX="5" offsetY="11" />
+<SubTexture name="10" x="699" y="0" width="70" height="98" originalW="75" originalH="110"  offsetX="5" offsetY="11" />
+<SubTexture name="11" x="769" y="0" width="70" height="98" originalW="75" originalH="110"  offsetX="5" offsetY="11" />
+<SubTexture name="12" x="839" y="0" width="70" height="98" originalW="75" originalH="110"  offsetX="5" offsetY="11" />
+<SubTexture name="13" x="909" y="0" width="70" height="98" originalW="75" originalH="110"  offsetX="5" offsetY="11" />
+<SubTexture name="14" x="979" y="0" width="70" height="102" originalW="75" originalH="110"  offsetX="5" offsetY="7" />
+<SubTexture name="15" x="1049" y="0" width="70" height="108" originalW="75" originalH="110"  offsetX="5" offsetY="2" />
+<SubTexture name="16" x="1119" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="17" x="1189" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="18" x="1259" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="19" x="1329" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="20" x="1399" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="21" x="1469" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+<SubTexture name="22" x="1539" y="0" width="70" height="110" originalW="75" originalH="110"  offsetX="5" offsetY="0" />
+
+</TextureAtlas>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="winline_numbers.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="18" height="16" pos="465,164"/>
+<SubTexture name="1" x="18" y="0" width="18" height="16" pos="14,104"/>
+<SubTexture name="2" x="36" y="0" width="18" height="16" pos="14,226"/>
+<SubTexture name="3" x="54" y="0" width="18" height="16" pos="14,89"/>
+<SubTexture name="4" x="72" y="0" width="18" height="16" pos="465,255"/>
+<SubTexture name="5" x="90" y="0" width="18" height="16" pos="14,149"/>
+<SubTexture name="6" x="108" y="0" width="18" height="16" pos="14,194"/>
+<SubTexture name="7" x="0" y="16" width="18" height="16" pos="14,255"/>
+<SubTexture name="8" x="18" y="16" width="18" height="16" pos="465,85"/>
+<SubTexture name="9" x="36" y="16" width="18" height="16" pos="465,213"/>
+<SubTexture name="10" x="54" y="16" width="18" height="16" pos="465,114"/>
+<SubTexture name="11" x="72" y="16" width="18" height="16" pos="465,144"/>
+<SubTexture name="12" x="90" y="16" width="18" height="16" pos="465,182"/>
+<SubTexture name="13" x="108" y="16" width="18" height="16" pos="14,74"/>
+<SubTexture name="14" x="0" y="32" width="18" height="16" pos="465,70"/>
+<SubTexture name="15" x="18" y="32" width="18" height="16" pos="14,179"/>
+<SubTexture name="16" x="36" y="32" width="18" height="16" pos="465,100"/>
+<SubTexture name="17" x="54" y="32" width="18" height="16" pos="465,241"/>
+<SubTexture name="18" x="72" y="32" width="18" height="16" pos="14,165"/>
+<SubTexture name="19" x="90" y="32" width="18" height="16" pos="14,119"/>
+<SubTexture name="20" x="108" y="32" width="18" height="16" pos="14,211"/>
+<SubTexture name="21" x="0" y="48" width="18" height="16" pos="465,198"/>
+<SubTexture name="22" x="18" y="48" width="18" height="16" pos="465,129"/>
+<SubTexture name="23" x="35" y="48" width="18" height="16" pos="465,230"/>
+<SubTexture name="24" x="54" y="48" width="18" height="16" pos="14,246"/>
+</TextureAtlas>

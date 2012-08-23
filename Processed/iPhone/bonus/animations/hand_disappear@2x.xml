@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="hand_disappear@2x.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="99" height="85" originalW="140" originalH="110"  offsetX="15" offsetY="14" />
+<SubTexture name="1" x="99" y="0" width="64" height="105" originalW="140" originalH="110"  offsetX="7" offsetY="5" />
+<SubTexture name="2" x="163" y="0" width="35" height="91" originalW="140" originalH="110"  offsetX="13" offsetY="16" />
+<SubTexture name="3" x="198" y="0" width="13" height="15" originalW="140" originalH="110"  offsetX="52" offsetY="67" />
+<SubTexture name="4" x="211" y="0" width="1" height="1" originalW="140" originalH="110"  offsetX="140" offsetY="110" />
+
+</TextureAtlas>

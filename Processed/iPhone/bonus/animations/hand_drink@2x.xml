@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="hand_drink@2x.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="100" height="84" originalW="140" originalH="110"  offsetX="15" offsetY="14" />
+<SubTexture name="1" x="100" y="0" width="108" height="72" originalW="140" originalH="110"  offsetX="16" offsetY="13" />
+<SubTexture name="2" x="208" y="0" width="119" height="56" originalW="140" originalH="110"  offsetX="18" offsetY="11" />
+<SubTexture name="3" x="327" y="0" width="118" height="43" originalW="140" originalH="110"  offsetX="22" offsetY="9" />
+<SubTexture name="4" x="445" y="0" width="117" height="45" originalW="140" originalH="110"  offsetX="23" offsetY="3" />
+<SubTexture name="5" x="562" y="0" width="116" height="48" originalW="140" originalH="110"  offsetX="23" offsetY="0" />
+<SubTexture name="6" x="678" y="0" width="116" height="48" originalW="140" originalH="110"  offsetX="23" offsetY="0" />
+<SubTexture name="7" x="794" y="0" width="117" height="44" originalW="140" originalH="110"  offsetX="23" offsetY="4" />
+<SubTexture name="8" x="911" y="0" width="119" height="52" originalW="140" originalH="110"  offsetX="19" offsetY="10" />
+<SubTexture name="9" x="1030" y="0" width="112" height="70" originalW="140" originalH="110"  offsetX="16" offsetY="12" />
+<SubTexture name="10" x="1142" y="0" width="108" height="76" originalW="140" originalH="110"  offsetX="16" offsetY="13" />
+
+</TextureAtlas>

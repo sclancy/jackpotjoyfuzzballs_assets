@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="teapot5_disappear.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="97" height="73" originalW="190" originalH="204"  offsetX="47" offsetY="74" />
+<SubTexture name="1" x="97" y="0" width="145" height="105" originalW="190" originalH="204"  offsetX="22" offsetY="40" />
+<SubTexture name="2" x="242" y="0" width="118" height="127" originalW="190" originalH="204"  offsetX="38" offsetY="18" />
+<SubTexture name="3" x="360" y="0" width="148" height="141" originalW="190" originalH="204"  offsetX="25" offsetY="6" />
+<SubTexture name="4" x="508" y="0" width="153" height="161" originalW="190" originalH="204"  offsetX="20" offsetY="2" />
+<SubTexture name="5" x="661" y="0" width="159" height="148" originalW="190" originalH="204"  offsetX="20" offsetY="3" />
+<SubTexture name="6" x="820" y="0" width="161" height="150" originalW="190" originalH="204"  offsetX="21" offsetY="0" />
+<SubTexture name="7" x="981" y="0" width="162" height="129" originalW="190" originalH="204"  offsetX="18" offsetY="20" />
+<SubTexture name="8" x="1143" y="0" width="1" height="1" originalW="190" originalH="204"  offsetX="190" offsetY="204" />
+
+</TextureAtlas>

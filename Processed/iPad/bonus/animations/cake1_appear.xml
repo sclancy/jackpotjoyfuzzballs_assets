@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="cake1_appear.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="1" height="1" originalW="242" originalH="234"  offsetX="242" offsetY="234" />
+<SubTexture name="1" x="1" y="0" width="116" height="81" originalW="242" originalH="234"  offsetX="64" offsetY="117" />
+<SubTexture name="2" x="117" y="0" width="116" height="103" originalW="242" originalH="234"  offsetX="70" offsetY="95" />
+<SubTexture name="3" x="233" y="0" width="108" height="118" originalW="242" originalH="234"  offsetX="71" offsetY="80" />
+<SubTexture name="4" x="341" y="0" width="103" height="136" originalW="242" originalH="234"  offsetX="71" offsetY="62" />
+<SubTexture name="5" x="444" y="0" width="129" height="151" originalW="242" originalH="234"  offsetX="45" offsetY="47" />
+<SubTexture name="6" x="573" y="0" width="143" height="129" originalW="242" originalH="234"  offsetX="31" offsetY="69" />
+<SubTexture name="7" x="716" y="0" width="115" height="91" originalW="242" originalH="234"  offsetX="59" offsetY="107" />
+<SubTexture name="8" x="831" y="0" width="151" height="132" originalW="242" originalH="234"  offsetX="57" offsetY="66" />
+<SubTexture name="9" x="982" y="0" width="149" height="136" originalW="242" originalH="234"  offsetX="64" offsetY="62" />
+<SubTexture name="10" x="1131" y="0" width="137" height="152" originalW="242" originalH="234"  offsetX="71" offsetY="46" />
+<SubTexture name="11" x="1268" y="0" width="149" height="159" originalW="242" originalH="234"  offsetX="59" offsetY="39" />
+<SubTexture name="12" x="1417" y="0" width="137" height="132" originalW="242" originalH="234"  offsetX="71" offsetY="66" />
+<SubTexture name="13" x="1554" y="0" width="137" height="139" originalW="242" originalH="234"  offsetX="71" offsetY="59" />
+<SubTexture name="14" x="1691" y="0" width="137" height="132" originalW="242" originalH="234"  offsetX="71" offsetY="66" />
+
+</TextureAtlas>

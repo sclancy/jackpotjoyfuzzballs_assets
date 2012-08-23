@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="teapot3_hit.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="51" height="35" originalW="95" originalH="106"  offsetX="22" offsetY="46" />
+<SubTexture name="1" x="51" y="0" width="51" height="36" originalW="95" originalH="106"  offsetX="22" offsetY="45" />
+<SubTexture name="2" x="102" y="0" width="51" height="43" originalW="95" originalH="106"  offsetX="22" offsetY="38" />
+<SubTexture name="3" x="153" y="0" width="53" height="44" originalW="95" originalH="106"  offsetX="20" offsetY="37" />
+<SubTexture name="4" x="206" y="0" width="51" height="44" originalW="95" originalH="106"  offsetX="22" offsetY="37" />
+<SubTexture name="5" x="257" y="0" width="51" height="44" originalW="95" originalH="106"  offsetX="22" offsetY="37" />
+<SubTexture name="6" x="308" y="0" width="51" height="44" originalW="95" originalH="106"  offsetX="22" offsetY="37" />
+
+</TextureAtlas>

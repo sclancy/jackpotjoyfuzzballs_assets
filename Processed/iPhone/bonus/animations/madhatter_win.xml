@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="madhatter_win.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="70" height="111" originalW="75" originalH="118"  offsetX="0" offsetY="6" />
+<SubTexture name="1" x="70" y="0" width="70" height="110" originalW="75" originalH="118"  offsetX="0" offsetY="8" />
+<SubTexture name="2" x="140" y="0" width="70" height="110" originalW="75" originalH="118"  offsetX="0" offsetY="7" />
+
+</TextureAtlas>

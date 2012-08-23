@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="teapot6_win.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="44" height="40" originalW="76" originalH="71"  offsetX="15" offsetY="27" />
+<SubTexture name="1" x="44" y="0" width="40" height="36" originalW="76" originalH="71"  offsetX="18" offsetY="31" />
+<SubTexture name="2" x="84" y="0" width="40" height="34" originalW="76" originalH="71"  offsetX="18" offsetY="33" />
+<SubTexture name="3" x="124" y="0" width="40" height="34" originalW="76" originalH="71"  offsetX="18" offsetY="33" />
+<SubTexture name="4" x="164" y="0" width="41" height="45" originalW="76" originalH="71"  offsetX="17" offsetY="22" />
+<SubTexture name="5" x="205" y="0" width="58" height="49" originalW="76" originalH="71"  offsetX="9" offsetY="18" />
+<SubTexture name="6" x="263" y="0" width="70" height="56" originalW="76" originalH="71"  offsetX="3" offsetY="11" />
+<SubTexture name="7" x="333" y="0" width="76" height="59" originalW="76" originalH="71"  offsetX="0" offsetY="8" />
+<SubTexture name="8" x="409" y="0" width="76" height="60" originalW="76" originalH="71"  offsetX="0" offsetY="7" />
+<SubTexture name="9" x="485" y="0" width="72" height="66" originalW="76" originalH="71"  offsetX="2" offsetY="1" />
+<SubTexture name="10" x="557" y="0" width="44" height="36" originalW="76" originalH="71"  offsetX="15" offsetY="31" />
+
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="hatter_win.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="137" height="218" originalW="150" originalH="220"  offsetX="11" offsetY="0" />
+<SubTexture name="1" x="137" y="0" width="138" height="216" originalW="150" originalH="220"  offsetX="8" offsetY="3" />
+<SubTexture name="2" x="275" y="0" width="137" height="215" originalW="150" originalH="220"  offsetX="9" offsetY="4" />
+<SubTexture name="3" x="412" y="0" width="140" height="214" originalW="150" originalH="220"  offsetX="6" offsetY="5" />
+<SubTexture name="4" x="552" y="0" width="143" height="213" originalW="150" originalH="220"  offsetX="3" offsetY="5" />
+<SubTexture name="5" x="695" y="0" width="143" height="213" originalW="150" originalH="220"  offsetX="2" offsetY="5" />
+<SubTexture name="6" x="838" y="0" width="145" height="212" originalW="150" originalH="220"  offsetX="0" offsetY="6" />
+<SubTexture name="7" x="983" y="0" width="149" height="204" originalW="150" originalH="220"  offsetX="0" offsetY="14" />
+<SubTexture name="8" x="1132" y="0" width="145" height="212" originalW="150" originalH="220"  offsetX="0" offsetY="6" />
+<SubTexture name="9" x="1277" y="0" width="150" height="213" originalW="150" originalH="220"  offsetX="0" offsetY="5" />
+<SubTexture name="10" x="1427" y="0" width="145" height="212" originalW="150" originalH="220"  offsetX="0" offsetY="6" />
+<SubTexture name="11" x="1572" y="0" width="149" height="204" originalW="150" originalH="220"  offsetX="0" offsetY="14" />
+<SubTexture name="12" x="1721" y="0" width="145" height="212" originalW="150" originalH="220"  offsetX="0" offsetY="6" />
+<SubTexture name="13" x="1866" y="0" width="150" height="213" originalW="150" originalH="220"  offsetX="0" offsetY="5" />
+<SubTexture name="14" x="0" y="218" width="145" height="212" originalW="150" originalH="220"  offsetX="0" offsetY="6" />
+<SubTexture name="15" x="145" y="218" width="140" height="217" originalW="150" originalH="220"  offsetX="6" offsetY="1" />
+<SubTexture name="16" x="285" y="218" width="137" height="218" originalW="150" originalH="220"  offsetX="11" offsetY="0" />
+
+</TextureAtlas>

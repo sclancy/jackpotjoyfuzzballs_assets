@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="madhatter_hide@2x.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="1" height="1" originalW="150" originalH="236"  offsetX="150" offsetY="236" />
+<SubTexture name="1" x="1" y="0" width="103" height="90" originalW="150" originalH="236"  offsetX="35" offsetY="118" />
+<SubTexture name="2" x="104" y="0" width="127" height="170" originalW="150" originalH="236"  offsetX="14" offsetY="61" />
+<SubTexture name="3" x="231" y="0" width="141" height="230" originalW="150" originalH="236"  offsetX="0" offsetY="4" />
+<SubTexture name="4" x="372" y="0" width="138" height="220" originalW="150" originalH="236"  offsetX="0" offsetY="13" />
+<SubTexture name="5" x="510" y="0" width="137" height="217" originalW="150" originalH="236"  offsetX="0" offsetY="16" />
+
+</TextureAtlas>

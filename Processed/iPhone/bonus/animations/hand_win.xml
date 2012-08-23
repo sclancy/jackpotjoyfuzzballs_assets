@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="hand_win.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="52" height="44" originalW="70" originalH="55"  offsetX="7" offsetY="5" />
+<SubTexture name="1" x="52" y="0" width="53" height="42" originalW="70" originalH="55"  offsetX="6" offsetY="7" />
+<SubTexture name="2" x="105" y="0" width="51" height="43" originalW="70" originalH="55"  offsetX="8" offsetY="6" />
+
+</TextureAtlas>

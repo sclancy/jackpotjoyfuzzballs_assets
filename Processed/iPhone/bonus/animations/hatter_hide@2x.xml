@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="hatter_hide@2x.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="11" height="3" originalW="150" originalH="220"  offsetX="89" offsetY="213" />
+<SubTexture name="1" x="11" y="0" width="119" height="91" originalW="150" originalH="220"  offsetX="11" offsetY="128" />
+<SubTexture name="2" x="130" y="0" width="133" height="177" originalW="150" originalH="220"  offsetX="11" offsetY="42" />
+<SubTexture name="3" x="263" y="0" width="137" height="218" originalW="150" originalH="220"  offsetX="11" offsetY="0" />
+<SubTexture name="4" x="400" y="0" width="137" height="218" originalW="150" originalH="220"  offsetX="11" offsetY="0" />
+
+</TextureAtlas>
