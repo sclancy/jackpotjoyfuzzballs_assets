@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="reel_symbols_bonus.png">
+<SubTexture name="0" x="0" y="0" width="138" height="414"/>
+<SubTexture name="1" x="138" y="0" width="138" height="414"/>
+<SubTexture name="2" x="276" y="0" width="138" height="414"/>
+<SubTexture name="3" x="414" y="0" width="138" height="414"/>
+<SubTexture name="4" x="552" y="0" width="138" height="414"/>
+<SubTexture name="5" x="690" y="0" width="138" height="414"/>
+<SubTexture name="6" x="828" y="0" width="138" height="414"/>
+<SubTexture name="7" x="966" y="0" width="138" height="414"/>
+<SubTexture name="8" x="1104" y="0" width="138" height="414"/>
+<SubTexture name="9" x="1242" y="0" width="138" height="414"/>
+
+</TextureAtlas>
