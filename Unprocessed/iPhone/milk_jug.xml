@@ -26,5 +26,6 @@
 <SubTexture name="23" x="1334" y="0" width="58" height="64"/>
 <SubTexture name="24" x="1392" y="0" width="58" height="64"/>
 <SubTexture name="25" x="1450" y="0" width="58" height="64"/>
+<SubTexture name="26" x="1508" y="0" width="58" height="64"/>
 
 </TextureAtlas>
