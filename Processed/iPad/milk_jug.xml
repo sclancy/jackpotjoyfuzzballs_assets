@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="milk_jug.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="116" height="129"/>
+<SubTexture name="1" x="116" y="0" width="116" height="129"/>
+<SubTexture name="2" x="232" y="0" width="116" height="129"/>
+<SubTexture name="3" x="348" y="0" width="116" height="129"/>
+<SubTexture name="4" x="464" y="0" width="116" height="129"/>
+<SubTexture name="5" x="580" y="0" width="116" height="129"/>
+<SubTexture name="6" x="696" y="0" width="116" height="129"/>
+<SubTexture name="7" x="812" y="0" width="116" height="129"/>
+<SubTexture name="8" x="928" y="0" width="116" height="129"/>
+<SubTexture name="9" x="1044" y="0" width="116" height="129"/>
+<SubTexture name="10" x="1160" y="0" width="116" height="129"/>
+<SubTexture name="11" x="1276" y="0" width="116" height="129"/>
+<SubTexture name="12" x="1392" y="0" width="116" height="129"/>
+<SubTexture name="13" x="1508" y="0" width="116" height="129"/>
+<SubTexture name="14" x="1624" y="0" width="116" height="129"/>
+<SubTexture name="15" x="1740" y="0" width="116" height="129"/>
+<SubTexture name="16" x="1856" y="0" width="116" height="129"/>
+<SubTexture name="17" x="0" y="129" width="116" height="129"/>
+<SubTexture name="18" x="116" y="129" width="116" height="129"/>
+<SubTexture name="19" x="232" y="129" width="116" height="129"/>
+<SubTexture name="20" x="348" y="129" width="116" height="129"/>
+<SubTexture name="21" x="464" y="129" width="116" height="129"/>
+<SubTexture name="22" x="580" y="129" width="116" height="129"/>
+<SubTexture name="23" x="696" y="129" width="116" height="129"/>
+<SubTexture name="24" x="812" y="129" width="116" height="129"/>
+<SubTexture name="25" x="928" y="129" width="116" height="129"/>
+<SubTexture name="26" x="1044" y="129" width="116" height="129"/>
+
+</TextureAtlas>

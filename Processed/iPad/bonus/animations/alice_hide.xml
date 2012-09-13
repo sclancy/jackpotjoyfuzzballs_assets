@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TextureAtlas imagePath="alice_hide.pvr.gz">
-<SubTexture name="0" x="0" y="0" width="115" height="140" originalW="116" originalH="150"  offsetX="1" offsetY="9" />
-<SubTexture name="1" x="115" y="0" width="116" height="148" originalW="116" originalH="150"  offsetX="0" offsetY="1" />
-<SubTexture name="2" x="231" y="0" width="116" height="115" originalW="116" originalH="150"  offsetX="0" offsetY="33" />
-<SubTexture name="3" x="347" y="0" width="113" height="64" originalW="116" originalH="150"  offsetX="3" offsetY="85" />
-<SubTexture name="4" x="460" y="0" width="113" height="46" originalW="116" originalH="150"  offsetX="3" offsetY="103" />
-
-</TextureAtlas>
