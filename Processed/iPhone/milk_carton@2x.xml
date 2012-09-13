@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="milk_carton@2x.pvr.gz">
+<SubTexture name="0" x="0" y="0" width="138" height="138"/>
+<SubTexture name="1" x="138" y="0" width="138" height="138"/>
+<SubTexture name="2" x="276" y="0" width="138" height="138"/>
+<SubTexture name="3" x="414" y="0" width="138" height="138"/>
+<SubTexture name="4" x="552" y="0" width="138" height="138"/>
+<SubTexture name="5" x="690" y="0" width="138" height="138"/>
+<SubTexture name="6" x="828" y="0" width="138" height="138"/>
+<SubTexture name="7" x="966" y="0" width="138" height="138"/>
+<SubTexture name="8" x="1104" y="0" width="138" height="138"/>
+<SubTexture name="9" x="1242" y="0" width="138" height="138"/>
+<SubTexture name="10" x="1380" y="0" width="138" height="138"/>
+<SubTexture name="11" x="1518" y="0" width="138" height="138"/>
+<SubTexture name="12" x="1656" y="0" width="138" height="138"/>
+<SubTexture name="13" x="1794" y="0" width="138" height="138"/>
+<SubTexture name="14" x="0" y="138" width="138" height="138"/>
+<SubTexture name="15" x="138" y="138" width="138" height="138"/>
+<SubTexture name="16" x="276" y="138" width="138" height="138"/>
+<SubTexture name="17" x="414" y="138" width="138" height="138"/>
+<SubTexture name="18" x="552" y="138" width="138" height="138"/>
+<SubTexture name="19" x="690" y="138" width="138" height="138"/>
+<SubTexture name="20" x="828" y="138" width="138" height="138"/>
+<SubTexture name="21" x="966" y="138" width="138" height="138"/>
+<SubTexture name="22" x="1104" y="138" width="138" height="138"/>
+<SubTexture name="23" x="1242" y="138" width="138" height="138"/>
+<SubTexture name="24" x="1380" y="138" width="138" height="138"/>
+<SubTexture name="25" x="1518" y="138" width="138" height="138"/>
+<SubTexture name="26" x="1656" y="138" width="138" height="138"/>
+<SubTexture name="27" x="1794" y="138" width="138" height="138"/>
+<SubTexture name="28" x="0" y="276" width="138" height="138"/>
+<SubTexture name="29" x="138" y="276" width="138" height="138"/>
+<SubTexture name="30" x="276" y="276" width="138" height="138"/>
+<SubTexture name="31" x="414" y="276" width="138" height="138"/>
+<SubTexture name="32" x="552" y="276" width="138" height="138"/>
+<SubTexture name="33" x="690" y="276" width="138" height="138"/>
+<SubTexture name="34" x="828" y="276" width="138" height="138"/>
+<SubTexture name="35" x="966" y="276" width="138" height="138"/>
+<SubTexture name="36" x="1104" y="276" width="138" height="138"/>
+<SubTexture name="37" x="1242" y="276" width="138" height="138"/>
+
+</TextureAtlas>
